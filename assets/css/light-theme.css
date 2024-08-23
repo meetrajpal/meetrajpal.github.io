@@ -1,0 +1,138 @@
+body {
+    background-color: #ffffff; /* Light background color */
+    color: #333333; /* Dark text color for contrast */
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  /* Sidebar */
+  .sidebar {
+    background-color: #f8f9fa; /* Light sidebar background */
+    color: #333333;
+  }
+  
+  .sidebar .avatar-box img {
+    border-radius: 50%;
+  }
+  
+  .sidebar .info-content .name {
+    color: #333333;
+  }
+  
+  .sidebar .info-content .title {
+    color: #555555;
+  }
+  
+  .sidebar .contacts-list .contact-item .icon-box {
+    color: #007bff; /* Primary color for icons */
+  }
+  
+  .sidebar .contacts-list .contact-item .contact-info .contact-title,
+  .sidebar .contacts-list .contact-item .contact-info .contact-link {
+    color: #333333;
+  }
+  
+  .sidebar .social-list .social-item .social-link {
+    color: #007bff;
+  }
+  
+  .sidebar .social-list .social-item .social-link img {
+    filter: invert(0); /* No inversion for light theme */
+  }
+  
+  /* Navbar */
+  .navbar {
+    background-color: #f8f9fa; /* Light navbar background */
+  }
+  
+  .navbar .navbar-list .navbar-item .navbar-link {
+    color: #333333;
+  }
+  
+  /* Main content */
+  .main-content {
+    background-color: #ffffff;
+    color: #333333;
+  }
+  
+  .article-title {
+    color: #333333;
+  }
+  
+  .about-text p {
+    color: #555555;
+  }
+  
+  /* Services */
+  .service-title,
+  .service-item-title,
+  .service-item-text {
+    color: #333333;
+  }
+  
+  .service-icon-box img {
+    filter: invert(0); /* No inversion for light theme */
+  }
+  
+  /* Testimonials */
+  .testimonials-title,
+  .testimonials-item-title,
+  .testimonials-text p {
+    color: #333333;
+  }
+  
+  /* Clients */
+  .clients-title {
+    color: #333333;
+  }
+  
+  .clients-item img {
+    filter: invert(0); /* No inversion for light theme */
+  }
+  
+  /* Resume */
+  .timeline-item-title,
+  .timeline-text {
+    color: #333333;
+  }
+  
+  .skills-title,
+  .skills-item .title-wrapper h5,
+  .skills-item .title-wrapper data {
+    color: #333333;
+  }
+  
+  /* Portfolio */
+  .project-title,
+  .project-category {
+    color: #333333;
+  }
+  
+  /* Blog */
+  .blog-item-title,
+  .blog-text,
+  .blog-meta p,
+  .blog-meta time {
+    color: #333333;
+  }
+  
+  /* Contact */
+  .form-title {
+    color: #333333;
+  }
+  
+  .form-input {
+    background-color: #ffffff;
+    color: #333333;
+    border: 1px solid #ced4da;
+  }
+  
+  .form-btn {
+    background-color: #007bff;
+    color: #ffffff;
+  }
+  
+  .form-btn:disabled {
+    background-color: #cccccc;
+    color: #ffffff;
+  }
+  
