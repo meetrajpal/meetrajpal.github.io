@@ -24,7 +24,8 @@ The site includes following details:
 <li><a href="https://en.wikipedia.org/wiki/CSS#">CSS</a></li>
 <li><a href="https://ecma-international.org/publications-and-standards/standards/ecma-262/">JavaScript</a></li>
 </ul> </details>
-<details> <summary>DevOps</summary> <ul>
+<details> <summary>Cloud and DevOps</summary> <ul>
+<li><a href="https://pages.github.com/">GitHub Pages</a></li>
 <li><a href="https://docs.github.com/en/actions">GitHub Actions</a></li>
 </ul> </details>
 
