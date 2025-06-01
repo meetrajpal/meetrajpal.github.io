@@ -1,7 +1,7 @@
 <h1 align="center">Personal Portfolio</h1>
 <p align="center"><a href="#project-description">Project Description</a> - <a href="#key-features">Key Features</a> - <a href="#technology-stack">Tech Stack</a></p>
 
-<img src="https://repolaunch.vercel.app/assets/img/yt.webp" alt="" align="middle" width="auto" height="auto">
+<img src="https://github.com/user-attachments/assets/a1607c7f-e389-4f34-8f0f-596411679b91" alt="" align="middle" width="auto" height="auto">
 
 ## Project Description
 
