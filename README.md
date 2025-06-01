@@ -1,4 +1,4 @@
-<h5 align="center><img src="https://github.com/meetrajpal/meetrajpal.github.io/blob/main/assets/images/logo-medium.svg" alt="" align="middle" width="25%" height="25%"></h5>
+<h5 align="center"><img src="https://github.com/meetrajpal/meetrajpal.github.io/blob/main/assets/images/logo-medium.svg" alt="" width="25%" height="25%"></h5>
 <h1 align="center">Personal Portfolio</h1>
 <p align="center"><a href=www.meetrajpal.co>Check Live</a> - <a href="#project-description">Project Description</a> - <a href="#key-features">Key Features</a> - <a href="#tech-stack">Tech Stack</a> - <a href="#contact">Contact</a></p>
 
